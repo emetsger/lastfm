@@ -7,9 +7,7 @@
   <version>1.0.0-SNAPSHOT</version>
   <name>lastfm-neighborhood</name>
   <url>http://maven.apache.org</url>
-<!--
-Your API Key is 0ce952465e4cfe85d9bd68312c11bcd1 and your secret is e38dfc6695227a26cb6aa312b997dccf
--->
+
     <build>
         <plugins>
             <!--
